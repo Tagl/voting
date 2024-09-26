@@ -1,0 +1,3 @@
+/data/tagl/voting/CMakeFiles/voting.dir
+/data/tagl/voting/CMakeFiles/edit_cache.dir
+/data/tagl/voting/CMakeFiles/rebuild_cache.dir
